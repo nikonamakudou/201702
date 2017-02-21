@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{53B767BE-627A-2D69-688E-AB59360C6681}") = "Block崩し", "Assembly-CSharp.csproj", "{B69AFA8E-875A-9303-9078-6F9DD3A566D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69AFA8E-875A-9303-9078-6F9DD3A566D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69AFA8E-875A-9303-9078-6F9DD3A566D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69AFA8E-875A-9303-9078-6F9DD3A566D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69AFA8E-875A-9303-9078-6F9DD3A566D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
